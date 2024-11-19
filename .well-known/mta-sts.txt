@@ -1,4 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 max_age: 604800
-mx: *.mail.icloud.com
+mx: mx01.mail.icloud.com
+mx: mx02.mail.icloud.com
